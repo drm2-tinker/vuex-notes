@@ -1,0 +1,20 @@
+{
+  "name": "vuex-notes",
+  "version": "1.0.0",
+  "description": "A demo app for Vuex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drm2-tinker/vuex-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drm2-tinker/vuex-notes/issues"
+  },
+  "homepage": "https://github.com/drm2-tinker/vuex-notes#readme"
+}
